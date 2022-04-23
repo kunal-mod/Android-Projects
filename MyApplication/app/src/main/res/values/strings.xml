@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lallu Calculator</string>
+    <string name="kunal">Kunal</string>
+    <string name="hello">This is text</string>
+    <string name="lallu_lal">Lallu Lal</string>
+    <string name="not_available">Not Available</string>
+    <string name="button">Click Me</string>
+    <string name="calculator">Calculator</string>
+    <string name="value_1">Value 1</string>
+    <string name="value_2">Value 2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mul">*</string>
+    <string name="divide">/</string>
+</resources>
